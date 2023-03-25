@@ -1,7 +1,4 @@
-using System.Reflection.PortableExecutable;
-using System.Diagnostics.Contracts;
-using System.Security.Cryptography.X509Certificates;
-namespace TZService.Contracts.RetrievceReference;
+namespace TZService.Contracts.OutGoing.RetrieveReference;
 
 public class ReferenceDetailType
 {

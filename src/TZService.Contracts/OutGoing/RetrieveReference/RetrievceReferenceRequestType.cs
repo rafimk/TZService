@@ -1,7 +1,6 @@
-using System.Security.Cryptography.X509Certificates;
-namespace TZService.Contracts.RetrievceReference;
+namespace TZService.Contracts.OutGoing.RetrieveReference;
 
-public class RetrievceReferenceRequestType
+public class RetrieveReferenceRequestType
 {
     public string MessageId { get; set; }
     public string[] Items { get; set; }   

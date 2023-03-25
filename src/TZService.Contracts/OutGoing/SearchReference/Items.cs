@@ -1,4 +1,4 @@
-namespace TZService.Contracts.SearchReference;
+namespace TZService.Contracts.OutGoing.SearchReference;
 
 public class Items
 {

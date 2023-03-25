@@ -1,4 +1,4 @@
-namespace TZService.Contracts.RetrievceReference;
+namespace TZService.Contracts.OutGoing.RetrieveReference;
 
 public class RetieveReferenceResponseType
 {

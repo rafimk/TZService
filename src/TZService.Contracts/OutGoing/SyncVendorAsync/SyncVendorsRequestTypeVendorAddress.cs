@@ -1,4 +1,4 @@
-namespace TZService.Contracts.SyncVendorAsync;
+namespace TZService.Contracts.OutGoing.SyncVendorAsync;
 
 public class SyncVendorsRequestTypeVendorAddress
 {
