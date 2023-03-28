@@ -1,4 +1,4 @@
-namespace TZService.Contracts.NotifyOrganizationChangeAsync;
+namespace TZService.Contracts.SyncOrganizationAsync;
 
 public class AddressMOV
 {

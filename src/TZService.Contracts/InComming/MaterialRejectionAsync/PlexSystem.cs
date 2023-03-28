@@ -1,4 +1,4 @@
-namespace TZService.Contracts.NotifyRefChangeAsync;
+namespace TZService.Contracts.MaterialRejectionAsync;
 
 public class PlexSystem
 {

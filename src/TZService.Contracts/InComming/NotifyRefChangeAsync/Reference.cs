@@ -1,4 +1,4 @@
-
+namespace TZService.Contracts.NotifyRefChangeAsync;
 public class Reference
 {
     public string STM18I { get; set;}

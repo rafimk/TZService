@@ -1,3 +1,4 @@
+namespace TZService.Contracts.NotifyRefChangeAsync;
 
 public class OperationResult
 {

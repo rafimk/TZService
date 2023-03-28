@@ -1,4 +1,4 @@
-
+namespace TZService.Contracts.NotifyRefChangeAsync;
 
 public class Stmmsr1f_Input
 {

@@ -1,3 +1,4 @@
+namespace TZService.Contracts.NotifyOrganizationChangeAsync;
 
 public class NotifyOrganizationsRequest
 {

@@ -1,4 +1,4 @@
-
+namespace TZService.Contracts.NotifyRefChangeAsync;
 public class InterchangeableMOV
 {
     public string STE18I { get; set;}
