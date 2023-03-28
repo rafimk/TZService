@@ -1,4 +1,4 @@
-namespace TZService.Contracts.MaterialRejectionAsync;
+namespace TZService.Contracts.InComming.MaterialRejectionAsync;
 
 public class STRISRF_Input
 {

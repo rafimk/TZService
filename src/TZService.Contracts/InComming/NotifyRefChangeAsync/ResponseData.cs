@@ -1,4 +1,4 @@
-namespace TZService.Contracts.NotifyRefChangeAsync;
+namespace TZService.Contracts.InComming.NotifyRefChangeAsync;
 public class ResponseData
 {
     public string ADMSGID { get; set;}

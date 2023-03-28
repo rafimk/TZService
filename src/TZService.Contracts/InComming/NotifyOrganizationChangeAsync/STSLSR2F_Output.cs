@@ -1,4 +1,4 @@
-namespace TZService.Contracts.NotifyOrganizationChangeAsync;
+namespace TZService.Contracts.InComming.MaterialRejectionAsync;
 public class STSLSR2F_Output
 {
     public OperationResult OperationResult { get; set;}

@@ -1,4 +1,4 @@
-namespace TZService.Contracts.NotifyRefChangeAsync;
+namespace TZService.Contracts.InComming.NotifyRefChangeAsync;
 public class STMMSR1F_Output
 {
     public OperationResult OperationResult { get; set;}

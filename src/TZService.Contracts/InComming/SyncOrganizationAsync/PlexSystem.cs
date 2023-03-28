@@ -1,4 +1,4 @@
-namespace TZService.Contracts.SyncOrganizationAsync;
+namespace TZService.Contracts.InComming.SyncOrganizationAsync;
 
 public class PlexSystem
 {

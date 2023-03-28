@@ -1,4 +1,4 @@
-namespace TZService.Contracts.MaterialRejectionAsync;
+namespace TZService.Contracts.InComming.MaterialRejectionAsync;
 
 public class STRISR1F_Output
 {

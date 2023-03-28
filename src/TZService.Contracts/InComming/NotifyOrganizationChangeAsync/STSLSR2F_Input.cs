@@ -1,4 +1,4 @@
-namespace TZService.Contracts.NotifyOrganizationChangeAsync;
+namespace TZService.Contracts.InComming.NotifyOrganizationChangeAsync;
 
 public class STSLSR2F_Input
 {
